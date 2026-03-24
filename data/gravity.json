@@ -1,0 +1,22 @@
+{
+    "id":77008332,
+    "name": "gravity",
+    "author": "Kaza",
+    "creators": ["Kaza and REDACTED"],
+    "verifier": "zKiysa",
+    "verification": "https://www.youtube.com/watch?v=yrl-OQlrMkQ&list=PLCp7f0vVToVaZExle1KgPGXv1zbsu6no9&index=14",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+
+        {
+            "user": "FridgeUK",
+            "link": "https://www.youtube.com/watch?v=fcYijqPj6DY",
+            "percent": 100,
+            "hz": 240
+        }
+ 
+    ]
+
+}
+

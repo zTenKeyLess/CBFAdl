@@ -1,0 +1,21 @@
+{
+    "id": 38235367,
+    "name": "Quantum Processing",
+    "author": "Riot",
+    "creators": ["Riot, REDACTED, Sil3nce"],
+    "verifier": "ejgpsyched",
+    "verification": "https://www.youtube.com/watch?v=1d0DZg61B7c",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        {
+            "user": "zKiysa",
+            "link": "https://www.youtube.com/watch?v=yiD4GGkOFcY&t=311s",
+            "percent": 100,
+            "hz": 480
+        }
+ 
+    ]
+
+}
+

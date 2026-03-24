@@ -1,0 +1,40 @@
+{
+    "id": 81148582,
+    "name": "Sweater Weather",
+    "author": "VelYT",
+    "creators": ["VelYT"],
+    "verifier": "HarlGD186",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+
+            {
+            "user": "Fatal",
+            "link": "https://medal.tv/games/geometry-dash/clips/kAwAsywIFIPsJhBts?invite=cr-MSxEWGwsMjAwNTQyNzcy&v=82",
+            "percent": 100,
+            "hz": 240
+        },
+        
+        {
+            "user": "hamstring",
+            "link": "https://www.youtube.com/watch?v=ElSZGTEgp_E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ejgpsyched",
+            "link": "https://www.youtube.com/watch?v=-4HgTmYdkPQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zTenKeyLess",
+            "link": "https://www.youtube.com/watch?v=TL-4cnRZ4fg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+
+}
+

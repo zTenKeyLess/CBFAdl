@@ -1,0 +1,59 @@
+{
+    "id":61079355,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "HarlGD186",
+    "verification": "https://www.youtube.com/watch?v=koXu6yYGA10",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+
+                {
+            "user": "Fatal",
+            "link": "https://www.youtube.com/watch?v=EWLH3CPnl8k&ab_channel=YT_Fatal",
+            "percent": 100,
+            "hz": 240
+        },
+ {
+            "user": "NotZevix",
+            "link": "https://www.youtube.com/watch?v=mdjT_ZTrCls&ab_channel=Zev",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zTenKeyLess",
+            "link": "https://www.youtube.com/watch?v=RGDORGaF1xM",
+            "percent": 100,
+            "hz": 480
+            
+        },{
+            "user": "notjjames",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+            {
+            "user": "zKiysa",
+            "link": "https://www.youtube.com/watch?v=KmlsPSbdOqw&list=PLCp7f0vVToVaZExle1KgPGXv1zbsu6no9&index=5",
+            "percent": 100,
+            "hz": 240
+        },
+
+ {
+            "user": "Jabsai",
+            "link": "https://www.youtube.com/watch?v=ZUit41bvFDc&ab_channel=JabSai",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Woomy",
+            "link": "https://www.youtube.com/watch?v=FslG6X7LQsI",
+            "percent": 100,
+            "hz": 240
+        }
+        
+    ]
+
+}
+

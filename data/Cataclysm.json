@@ -1,0 +1,53 @@
+{
+    "id":3979721,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": ["GgB0y and Riot"],
+    "verifier": "ejgpsyched",
+    "verification": "https://www.youtube.com/watch?v=QYlcoXqRGJA",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+
+                {
+            "user": "HarlGD186",
+            "link": "https://www.youtube.com/watch?v=QFEOgHKURHU&list=PLmruZtx4pbdhpA_i-HIK_EAHhdlemQ6LZ&index=10&ab_channel=HarlGD",
+            "percent": 100,
+            "hz": 120
+        },
+ {
+            "user": "NotZevix",
+            "link": "https://www.youtube.com/watch?v=Oy9tq4tYmtY&ab_channel=Zev",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zTenKeyLess",
+            "link": "https://www.youtube.com/watch?v=OW62v8J55j4",
+            "percent": 100,
+            "hz": 480
+        },
+            {
+            "user": "zKiysa",
+            "link": "https://www.youtube.com/watch?v=jFxB48FBQm4&list=PLCp7f0vVToVaZExle1KgPGXv1zbsu6no9&index=10",
+            "percent": 100,
+            "hz": 480
+        },
+
+ {
+            "user": "notjjames",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Jabsai",
+            "link": "https://www.youtube.com/watch?v=xG7-D9qAr2g&t=2s",
+            "percent": 100,
+            "hz": 240
+        }
+        
+    ]
+
+}
+

@@ -1,0 +1,21 @@
+{
+    "id":59899374,
+    "name": "Prismatic Haze",
+    "author": "REDACTED",
+    "creators": ["REDACTED and Gizbro"],
+    "verifier": "notjjames",
+    "verification": "https://www.youtube.com/watch?v=RS5ZFcuaw3I&t=1s",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        {
+            "user": "FridgeUK",
+            "link": "https://www.youtube.com/watch?v=dow-U3qyRSg",
+            "percent": 100,
+            "hz": 480
+        }
+ 
+    ]
+
+}
+

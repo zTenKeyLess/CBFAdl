@@ -1,0 +1,21 @@
+{
+    "id": 23262780,
+    "name": "Sakupen Hell",
+    "author": "TrusTa",
+    "creators": ["Noobas"],
+    "verifier": "HarlGD186",
+    "verification": "https://www.youtube.com/watch?v=_UOSaQroEcA&list=PLmruZtx4pbdhpA_i-HIK_EAHhdlemQ6LZ&index=2&ab_channel=HarlGD",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        {
+            "user": "ejgpsyched",
+            "link": "https://www.youtube.com/watch?v=q2fUBP24wko",
+            "percent": 100,
+            "hz": 480
+        }
+ 
+    ]
+
+}
+

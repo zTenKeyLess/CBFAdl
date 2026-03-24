@@ -1,0 +1,21 @@
+{
+    "id": 88203501,
+    "name": "UNKNOWN",
+    "author": "NineDice",
+    "creators": ["NineDice"],
+    "verifier": "zKiysa",
+    "verification": "https://www.youtube.com/watch?v=4Xwq3dpIlRw&t=1s",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        {
+            "user": "ejgpsyched",
+            "link": "https://www.youtube.com/watch?v=n6ZhX4ifZso&t=6s",
+            "percent": 100,
+            "hz": 480
+        }
+ 
+    ]
+
+}
+

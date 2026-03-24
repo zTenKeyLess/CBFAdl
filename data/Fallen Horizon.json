@@ -1,0 +1,21 @@
+{
+    "id": 127305966,
+    "name": "Fallen Horizon",
+    "author": "chloechu",
+    "creators": ["chloechu, Devilmine and more"],
+    "verifier": "FridgeUK",
+    "verification": "https://www.youtube.com/watch?v=wnC7BqnvBOg",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        {
+            "user": "zTenKeyLess",
+            "link": "https://www.youtube.com/watch?v=wVgjnCLm9mM&t=2s",
+            "percent": 100,
+            "hz": 480
+        }
+ 
+    ]
+
+}
+

@@ -1,0 +1,27 @@
+{
+    "id": 62556400,
+    "name": "Codependence (2P)",
+    "author": "Zeniux",
+    "creators": ["Zeniux and ZeusGD"],
+    "verifier": "HarlGD186",
+    "verification": "https://www.youtube.com/watch?v=Fc-Zd7pBdYU&t=25s",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        {
+            "user": "ejgpsyched",
+            "link": "https://www.youtube.com/watch?v=cii5zlzHtOI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zKiysa",
+            "link": "https://www.youtube.com/watch?v=xu8Jb0_gN44",
+            "percent": 100,
+            "hz": 480
+        }
+ 
+    ]
+
+}
+

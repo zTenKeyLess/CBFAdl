@@ -1,0 +1,27 @@
+{
+    "id":61531210,
+    "name": "Hyper Paradox",
+    "author": "ItzHybrid",
+    "creators": ["ItzHybrid, SyQual and more"],
+    "verifier": "zKiysa",
+    "verification": "https://www.youtube.com/watch?v=iyb8D0bGHl8",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [{
+            "user": "HarlGD186",
+            "link": "https://www.youtube.com/watch?v=HzfMfeHLVKY",
+            "percent": 100,
+            "hz": 120
+        },
+
+        {
+            "user": "NotZevix",
+            "link": "https://www.youtube.com/watch?v=tnMr4yWKLI0&t=314s",
+            "percent": 100,
+            "hz": 480
+        }
+ 
+    ]
+
+}
+

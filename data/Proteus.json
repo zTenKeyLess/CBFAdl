@@ -1,0 +1,23 @@
+{
+    "id": 88943354,
+    "name": "Proteus",
+    "author": "SpergQuos",
+    "creators": ["SpergQuos, SleyGD and more"],
+    "verifier": "HarlGD186",
+    "verification": "https://www.youtube.com/watch?v=RZ-PCdMe-to",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        
+                {
+            "user": "NotZevix",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+       
+ 
+    ]
+
+}
+

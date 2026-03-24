@@ -1,0 +1,34 @@
+{
+    "id":68848817,
+    "name": "moment",
+    "author": "lexycat",
+    "creators": ["lexycat, icedcave and Stormfly"],
+    "verifier": "zKiysa",
+    "verification": "https://www.youtube.com/watch?v=e3jH9UoC1TU&list=PLCp7f0vVToVaZExle1KgPGXv1zbsu6no9&index=3",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+
+                {
+            "user": "HarlGD186",
+            "link": "https://www.youtube.com/watch?v=I-xC-IfvuF4&ab_channel=HarlGD",
+            "percent": 100,
+            "hz": 120
+        },
+ {
+            "user": "Fatal",
+            "link": "https://www.youtube.com/watch?v=AmqreBKauE4",
+            "percent": 100,
+            "hz": 240
+        },
+
+ {
+            "user": "zTenKeyLess",
+            "link": "https://www.youtube.com/watch?v=KQwD6k2DwgY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+
+}
+

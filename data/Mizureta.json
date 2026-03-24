@@ -1,0 +1,34 @@
+{
+    "id": 95764848,
+    "name": "Mizureta",
+    "author": "dutchiee",
+    "creators": ["dutchiee, TriplasH and more"],
+    "verifier": "FridgeUK",
+    "verification": "https://www.youtube.com/watch?v=b5hggdbF6cQ",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+
+            {
+            "user": "HarlGD186",
+            "link": "https://www.youtube.com/watch?v=NeZtxMH3QVQ",
+            "percent": 100,
+            "hz": 120
+        },
+        
+        {
+            "user": "Fatal",
+            "link": "https://www.youtube.com/watch?v=9SXYS_VJqnc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "notjjames",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+
+}
+

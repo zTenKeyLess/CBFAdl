@@ -1,0 +1,46 @@
+{
+    "id": 87425029,
+    "name": "niwa",
+    "author": "Teno",
+    "creators": ["Teno, Asuith and more"],
+    "verifier": "FridgeUK",
+    "verification": "https://www.youtube.com/watch?v=_5AVwphL01U",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+
+            {
+            "user": "HarlGD186",
+            "link": "https://www.youtube.com/watch?v=i9fU1pCcnLY&list=PLmruZtx4pbdhpA_i-HIK_EAHhdlemQ6LZ&index=7",
+            "percent": 100,
+            "hz": 120
+        },
+        
+        {
+            "user": "Fatal",
+            "link": "https://medal.tv/games/geometry-dash/clips/k2Qd8Yz2ACJI8N1-l?invite=cr-MSxPS1gsMjAwNTQyNzcy&v=180",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "notjjames",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+ {
+            "user": "zKiysa",
+            "link": "https://www.youtube.com/watch?v=UnhTQTWJIQQ&list=PLCp7f0vVToVaZExle1KgPGXv1zbsu6no9&index=8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zTenKeyLess",
+            "link": "https://www.youtube.com/watch?v=2cDcXSrFc80",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+
+}
+

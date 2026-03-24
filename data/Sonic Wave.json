@@ -1,0 +1,21 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "lSunix",
+    "creators": ["Cyclic"],
+    "verifier": "ejgpsyched",
+    "verification": "https://www.youtube.com/watch?v=k4CUDaFjZ-g",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        {
+            "user": "zTenKeyLess",
+            "link": "https://www.youtube.com/watch?v=w1bTwo80xv8&t=365s",
+            "percent": 100,
+            "hz": 240
+        }
+ 
+    ]
+
+}
+

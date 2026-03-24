@@ -1,0 +1,34 @@
+{
+    "id":21280210,
+    "name": "The Flawless",
+    "author": "fin",
+    "creators": ["fin, raptorz and more"],
+    "verifier": "HarlGD186",
+    "verification": "https://www.youtube.com/watch?v=yM0SqsoR50E&list=PLmruZtx4pbdhpA_i-HIK_EAHhdlemQ6LZ&index=13&ab_channel=HarlGD",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+
+                {
+            "user": "NotZevix",
+            "link": "https://www.youtube.com/watch?v=HlB74e6kLeQ",
+            "percent": 100,
+            "hz": 240
+        },
+ {
+            "user": "Fatal",
+            "link": "https://medal.tv/games/geometry-dash/clips/kA697XA6IDchRGWMn?invite=cr-MSw3YkosMjAwNTQyNzcy&v=109",
+            "percent": 100,
+            "hz": 240
+        },
+
+ {
+            "user": "zTenKeyLess",
+            "link": "https://www.youtube.com/watch?v=eVPaSlVPy2Y&list=PLAeHTos1g5Qeo8bQYB3qNGE9Ljm3AkxTs&index=6",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+
+}
+

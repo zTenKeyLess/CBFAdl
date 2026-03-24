@@ -1,0 +1,21 @@
+{
+    "id": 93732702,
+    "name": "Crystal Crusher (2P)",
+    "author": "Zeniux",
+    "creators": ["Zeniux and ZeusGD"],
+    "verifier": "HarlGD186",
+    "verification": "https://www.youtube.com/watch?v=j8g5daH8MPU&t=6s",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        {
+            "user": "ejgpsyched",
+            "link": "https://www.youtube.com/watch?v=ejuK7aIC-Rc",
+            "percent": 100,
+            "hz": 480
+        }
+ 
+    ]
+
+}
+

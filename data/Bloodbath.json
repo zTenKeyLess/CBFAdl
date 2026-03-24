@@ -1,0 +1,52 @@
+{
+    "id":10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["weoweoteo, Vermillion and more"],
+    "verifier": "ejgpsyched",
+    "verification": "https://www.youtube.com/watch?v=3ts_mCG9A38",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+
+                {
+            "user": "zTenKeyLess",
+            "link": "https://www.youtube.com/watch?v=x8SBbJqcDPE&t=9s",
+            "percent": 100,
+            "hz": 480
+        },
+ {
+            "user": "HarlGD186",
+            "link": "https://www.youtube.com/watch?v=SNI1envO1oo&list=PLmruZtx4pbdhpA_i-HIK_EAHhdlemQ6LZ&index=12&ab_channel=HarlGD",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Fatal",
+            "link": "https://medal.tv/games/geometry-dash/clips/jUCrFWblguNPCEzcW?invite=cr-MSxPbEwsMjAwNTQyNzcy&v=134",
+            "percent": 100,
+            "hz": 240
+        },
+            {
+            "user": "hamstring",
+            "link": "https://www.youtube.com/watch?v=yb1hYbxtBBo&ab_channel=hamtrr",
+            "percent": 100,
+            "hz": 240
+        },
+
+ {
+            "user": "Jabsai",
+            "link": "https://www.youtube.com/watch?v=VWNzAjJEu84&ab_channel=JabSai",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Woomy",
+            "link": "https://www.youtube.com/watch?v=PWXKnEtP3hs",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+
+}
+
