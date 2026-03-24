@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "password": "None",
     "records": [
+         {
+            "user": "ejgpsyched",
+            "link": "https://www.youtube.com/watch?v=WSmZkc0-OHQ",
+            "percent": 100,
+            "hz": 240
+        },
 
             {
             "user": "HarlGD186",
@@ -22,12 +28,7 @@
             "percent": 100,
             "hz": 240
         },
- {
-            "user": "ejgpsyched",
-            "link": "https://www.youtube.com/watch?v=WSmZkc0-OHQ",
-            "percent": 100,
-            "hz": 240
-        },
+
         {
             "user": "hamstring",
             "link": "https://www.youtube.com/watch?v=8Da841gAWEY",
