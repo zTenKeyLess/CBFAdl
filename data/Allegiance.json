@@ -3,16 +3,16 @@
     "name": "Allegiance",
     "author": "nikrodox",
     "creators": ["nikrodox"],
-    "verifier": "HarlGD186",
-    "verification": "",
+    "verifier": "ejgpsyched",
+    "verification": "https://www.youtube.com/watch?v=BA0KKjn94Cw",
     "percentToQualify": 100,
     "password": "None",
     "records": [
         {
-            "user": "ejgpsyched",
-            "link": "https://www.youtube.com/watch?v=BA0KKjn94Cw",
+            "user": "HarlGD186",
+            "link": "",
             "percent": 100,
-            "hz": 240
+            "hz": 120
         }
  
     ]
