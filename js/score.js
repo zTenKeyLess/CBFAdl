@@ -30,7 +30,7 @@ let exponent = 2; // adjust this to change the curve
 let baseScore = 1 + 299 * Math.pow(1 - t, exponent);
     // boost top 2
 if (rank === 1) {
-  baseScore *= 1.15;
+  baseScore *= 1.166666667;
 } else if (rank === 2) {
   baseScore *= 1.12;
 }
