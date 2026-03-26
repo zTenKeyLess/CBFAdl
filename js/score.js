@@ -24,7 +24,8 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
-    let baseScore = 300 - ((rank - 1) * (299 / 149));
+    let total = levels.length; // ← number of levels in your list
+let baseScore = 300 - ((rank - 1) * (299 / (total - 1)));
 let score = baseScore *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
