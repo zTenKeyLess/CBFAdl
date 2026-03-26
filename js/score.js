@@ -25,7 +25,7 @@ export function score(rank, percent, minPercent) {
     */
     // New formula
     let total = 79; // number of levels in your list
-let exponent = 2.2; // adjust this to change the curve
+let exponent = 2; // adjust this to change the curve
     let t = (rank - 1) / (total - 1);
 let baseScore = 1 + 299 * Math.pow(1 - t, exponent);
     // boost top 2
