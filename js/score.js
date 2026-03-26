@@ -28,6 +28,12 @@ export function score(rank, percent, minPercent) {
 let exponent = 2.2; // adjust this to change the curve
     let t = (rank - 1) / (total - 1);
 let baseScore = 1 + 299 * Math.pow(1 - t, exponent);
+    // boost top 2
+if (rank === 1) {
+  baseScore *= 1.25;
+} else if (rank === 2) {
+  baseScore *= 1.12;
+}
 let score = baseScore *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
