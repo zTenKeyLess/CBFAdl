@@ -30,9 +30,13 @@ let exponent = 1.85; // adjust this to change the curve
 let baseScore = 10 + 290 * Math.pow(1 - t, exponent);
     // boost top 2
 if (rank === 1) {
-  baseScore *= 1.166666667;
+  baseScore *= 1.22;
 } else if (rank === 2) {
-  baseScore *= 1.12;
+  baseScore *= 1.10;
+} else if (rank === 3) {
+  baseScore *= 1.08;
+} else if (rank === 4) {
+  baseScore *= 1.03;
 }
 let score = baseScore *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
