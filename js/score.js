@@ -24,19 +24,26 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
-    let total = 80; // number of levels in your list
+    let total = 82; // number of levels in your list
 let exponent = 1.85; // adjust this to change the curve
     let t = (rank - 1) / (total - 1);
 let baseScore = 10 + 290 * Math.pow(1 - t, exponent);
     // boost top 2
+// TOP BOOSTS
 if (rank === 1) {
-  baseScore *= 1.22;
+  baseScore *= 1.25;
 } else if (rank === 2) {
   baseScore *= 1.10;
 } else if (rank === 3) {
   baseScore *= 1.08;
 } else if (rank === 4) {
-  baseScore *= 1.03;
+  baseScore *= 1.02;
+}
+
+// 11–12 GAP BOOST
+if (rank >= 10 && rank <= 13) {
+  let midBoost = 1 + (13 - rank) * 0.035;
+  baseScore *= midBoost;
 }
 let score = baseScore *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
