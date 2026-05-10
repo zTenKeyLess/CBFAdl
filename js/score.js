@@ -42,7 +42,7 @@ if (rank === 1) {
 
 // 12–13 GAP BOOST
 if (rank >= 11 && rank <= 14) {
-  let midBoost = 1 + (14 - rank) * 0.035;
+  let midBoost = 1 + (15 - rank) * 0.035;
   baseScore *= midBoost;
 }
 let score = baseScore *
