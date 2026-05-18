@@ -24,7 +24,7 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
   let total = 85;
-let exponent = 1.85;
+let exponent = 1.9;
 
 let t = (rank - 1) / (total - 1);
 let baseScore = 10 + 290 * Math.pow(1 - t, exponent);
