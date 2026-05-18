@@ -34,7 +34,7 @@ let baseScore = 10 + 290 * Math.pow(1 - t, exponent);
 if (rank === 1) {
   baseScore *= 1.20; // #1 above #2 and #3
 } else if (rank === 3) {
-  baseScore *= 1.08; // #3 above #4
+  baseScore *= 1.03; // #3 above #4
 } else if (rank === 13) {
   baseScore *= 1.05; // #13 above #14
 } else if (rank === 19) {
