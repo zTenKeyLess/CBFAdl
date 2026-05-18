@@ -32,15 +32,15 @@ let baseScore = 10 + 290 * Math.pow(1 - t, exponent);
 
 // TARGETED BOOSTS
 if (rank === 1) {
-  baseScore *= 1.20; // #1 above #2 and #3
+  baseScore *= 1.25; // #1 above #2 and #3
 } else if (rank === 2) {
-  baseScore *= 1.07; // keeps #2 above #3
+  baseScore *= 1.1; // keeps #2 above #3
 } else if (rank === 3) {
-  baseScore *= 1.03; // #3 above #4 (but still below #2)
+  baseScore *= 1.05; // #3 above #4 (but still below #2)
 } else if (rank === 13) {
-  baseScore *= 1.05; // #13 above #14
+  baseScore *= 1.03; // #13 above #14
 } else if (rank === 19) {
-  baseScore *= 1.04; // #19 above #20
+  baseScore *= 1.02; // #19 above #20
 }
 
 
