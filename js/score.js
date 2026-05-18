@@ -38,7 +38,7 @@ if (rank === 1) {
 } else if (rank === 3) {
   baseScore *= 1.05; // #3 above #4 (but still below #2)
 } else if (rank === 13) {
-  baseScore *= 1.05; // #13 above #14
+  baseScore *= 1.02; // #13 above #14
 } else if (rank === 19) {
   baseScore *= 1.02; // #19 above #20
 }
