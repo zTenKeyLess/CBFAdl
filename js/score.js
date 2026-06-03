@@ -36,7 +36,7 @@ if (rank === 1) {
 } else if (rank === 4) {
   baseScore *= 1.01; // keeps #4 ahead
 } else if (rank === 14) {
-  baseScore *= 1.03;
+  baseScore *= 1.01;
 } else if (rank === 20) {
   baseScore *= 1.02;
 }
