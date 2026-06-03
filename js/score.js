@@ -23,7 +23,7 @@ export function score(rank, percent, minPercent) {
     let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
-  let total = 85;
+  let total = 86;
 let exponent = 2;
 
 let t = (rank - 1) / (total - 1);
@@ -32,15 +32,13 @@ let baseScore = 10 + 290 * Math.pow(1 - t, exponent);
 
 // TARGETED BOOSTS
 if (rank === 1) {
-  baseScore *= 1.25; // #1 above #2 and #3
-} else if (rank === 2) {
-  baseScore *= 1.1; // keeps #2 above #3
-} else if (rank === 3) {
-  baseScore *= 1.05; // #3 above #4 (but still below #2)
-} else if (rank === 13) {
-  baseScore *= 1.01; // #13 above #14
-} else if (rank === 19) {
-  baseScore *= 1.03; // #19 above #20
+  baseScore *= 1.20; // #1 above #2
+} else if (rank === 5) {
+  baseScore *= 1.03; // #5 above #6
+} else if (rank === 14) {
+  baseScore *= 1.05; // #14 above #15
+} else if (rank === 20) {
+  baseScore *= 1.04; // #20 above #21
 }
 
 
