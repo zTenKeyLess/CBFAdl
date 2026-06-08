@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "password": "None",
     "records": [
+           {
+            "user": "zTenKeyLess",
+            "link": "https://www.youtube.com/watch?v=Ya1Xwaf4MAA",
+            "percent": 100,
+            "hz": 240
+        },
  
     ]
 
