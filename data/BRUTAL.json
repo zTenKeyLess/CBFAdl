@@ -15,6 +15,12 @@
             "hz": 480
         },
         {
+            "user": "HarlGD186",
+            "link": "https://www.youtube.com/watch?v=vRsIyu9FMnw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "ejgpsyched",
             "link": "https://www.youtube.com/watch?v=LvKXsb5Xmtc",
             "percent": 100,
@@ -25,7 +31,13 @@
             "link": "https://www.youtube.com/watch?v=P9OTe-dr63A",
             "percent": 100,
             "hz": 280
-        }
+        },
+        {
+            "user": "NotZevix",
+            "link": "https://www.youtube.com/watch?v=JaHJu7gRPWo",
+            "percent": 100,
+            "hz": 480
+        },
  
     ]
 
