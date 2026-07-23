@@ -23,7 +23,7 @@ export function score(rank, percent, minPercent) {
     let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
-  let total = 91;
+  let total = 92;
 let exponent = 2;
 
 let t = (rank - 1) / (total - 1);
@@ -37,7 +37,7 @@ if (rank === 1) {
   baseScore *= 1.01; // keeps #4 ahead
 } else if (rank === 16) {
   baseScore *= 1.01;
-} else if (rank === 21) {
+} else if (rank === 22) {
   baseScore *= 1.02;
 }
 
