@@ -3,12 +3,18 @@
     "name": "Acu",
     "author": "neigefeu",
     "creators": ["neigefeu"],
-    "verifier": "HarlGD186",
-    "verification": "https://www.youtube.com/watch?v=koXu6yYGA10",
+    "verifier": "ejgpsyched",
+    "verification": "https://www.youtube.com/watch?v=Wb8BHcAhW_c",
     "percentToQualify": 100,
     "password": "None",
     "records": [
 
+     {
+            "user": "HarlGD186",
+            "link": "https://www.youtube.com/watch?v=koXu6yYGA10",
+            "percent": 100,
+            "hz": 120
+        },   
                 {
             "user": "Fatal",
             "link": "https://www.youtube.com/watch?v=EWLH3CPnl8k&ab_channel=YT_Fatal",
