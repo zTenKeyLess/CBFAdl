@@ -37,6 +37,8 @@ if (rank === 1) {
   baseScore *= 1.01; // keeps #4 ahead
 } else if (rank === 16) {
   baseScore *= 1.01;
+} else if (rank === 22) {
+    baseScore *= 1.02;}
 
 
 let score = baseScore *
