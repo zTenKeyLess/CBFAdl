@@ -23,7 +23,7 @@ export function score(rank, percent, minPercent) {
     let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
-  let total = 96;
+  let total = 97;
 let exponent = 2;
 
 let t = (rank - 1) / (total - 1);

@@ -1,0 +1,26 @@
+{
+    "id":146399247,
+    "name": "rauchkammer",
+    "author": "devilmine",
+    "creators": ["devilmine"],
+    "verifier": "ejgpsyched",
+    "verification": "https://www.youtube.com/watch?v=aC6LsT3oeVY",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+ {
+            "user": "HarlGD186",
+            "link": "https://www.youtube.com/watch?v=UBgqLUy3Cuk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zKiysa",
+            "link": "https://www.youtube.com/watch?v=U5iH7A_gIps",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+
+}
+
