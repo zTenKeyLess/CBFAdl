@@ -8,7 +8,12 @@
     "percentToQualify": 100,
     "password": "None",
     "records": [
- 
+ {
+            "user": "HarlGD186",
+            "link": "https://www.youtube.com/watch?v=Av0Ox5Cq7MQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 
 }
