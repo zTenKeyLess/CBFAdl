@@ -8,12 +8,7 @@
     "percentToQualify": 100,
     "password": "None",
     "records": [
-        {
-            "user": "Fatal",
-            "link": "https://www.youtube.com/watch?v=m5eWEwk3MYY",
-            "percent": 100,
-            "hz": 240
-        },
+      
         {
             "user": "hamstring",
             "link": "https://youtu.be/IXc9uY30x1c",
