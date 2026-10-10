@@ -45,6 +45,12 @@
             "link": "https://www.youtube.com/watch?v=xG7-D9qAr2g&t=2s",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "zVoid",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
         
     ]
