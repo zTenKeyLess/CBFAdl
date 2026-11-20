@@ -13,7 +13,14 @@
             "link": "https://www.youtube.com/watch?v=yKpuUDfVJNA",
             "percent": 100,
             "hz": 540
+        },
+        {
+            "user": "HarlGD186",
+            "link": "https://youtu.be/fZwtZKIxLy8?si=3OZtwPicdeD5vhTN",
+            "percent": 100,
+            "hz": 240
         }
+    ]
     ]
 
 }
